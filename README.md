@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshots
 #### DESKTOP
 
-![](/screenshot.jpg)
+![](/screenshot.JPG)
 
 #### MOBILE
 
